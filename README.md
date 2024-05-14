@@ -1,1 +1,1 @@
-# Master of Sience 4
+# Master of Computer Science
